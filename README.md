@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -38,4 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
