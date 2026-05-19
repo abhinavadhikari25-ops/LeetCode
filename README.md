@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## String
@@ -85,4 +87,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
