@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [3110-score-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
