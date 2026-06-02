@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [3110-score-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -104,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
