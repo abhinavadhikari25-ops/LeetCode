@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
