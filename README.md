@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
