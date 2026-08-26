@@ -5,11 +5,7 @@ public:
         int ans = 0;
 
         for (int i = 0; i < n; i++) {
-            int left = i + 1;
-            int right = n - i;
-
-            int total = left * right;
-
+            int total = (i + 1) * (n - i);
             int odd = (total + 1) / 2;
 
             ans += arr[i] * odd;
