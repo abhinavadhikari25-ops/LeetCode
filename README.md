@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## String
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
