@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
