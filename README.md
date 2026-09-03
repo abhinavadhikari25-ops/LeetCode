@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -185,9 +186,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
