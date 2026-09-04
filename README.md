@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
