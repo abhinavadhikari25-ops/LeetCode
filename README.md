@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0050-powx-n/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0050-powx-n/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -215,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
