@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0046-permutations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -225,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
