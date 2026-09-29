@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -244,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
