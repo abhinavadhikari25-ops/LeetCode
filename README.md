@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
