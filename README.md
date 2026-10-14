@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 <!---LeetCode Topics End-->
