@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
