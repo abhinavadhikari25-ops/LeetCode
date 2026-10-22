@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0224-basic-calculator](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0224-basic-calculator](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0224-basic-calculator](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0342-power-of-four/) | Easy |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0224-basic-calculator](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
