@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
