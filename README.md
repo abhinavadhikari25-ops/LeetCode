@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
