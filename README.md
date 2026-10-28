@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -314,4 +317,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 <!---LeetCode Topics End-->
