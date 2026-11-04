@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0706-design-hashmap](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0724-find-pivot-index](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0706-design-hashmap](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0706-design-hashmap](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0706-design-hashmap](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
