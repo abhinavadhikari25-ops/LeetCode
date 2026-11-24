@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0391-perfect-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0258-add-digits](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3179-find-the-n-th-value-after-k-seconds/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/abhinavadhikari25-ops/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
